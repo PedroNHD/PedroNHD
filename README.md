@@ -1,4 +1,7 @@
-<h1 align="center">👋 Olá! Eu sou o Pedro</h1>
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50"/>
+  Olá! Eu sou o Pedro
+</h1>
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Atenas<br>
@@ -20,6 +23,15 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroNHD&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNHD&layout=compact&theme=dark" height="160"/>
 </p>
 
 ---
