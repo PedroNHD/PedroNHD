@@ -15,7 +15,7 @@
 <h2 align="center">🚀 Tecnologias e ferramentas</h2>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" alt="Java" width="60"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
