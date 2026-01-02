@@ -1,49 +1,63 @@
 <h1 align="center">
-  👋 Olá! Eu sou o Pedro
+  👋 Olá! Eu sou o Pedro Domingues
 </h1>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Atenas<br>
-💼 Especialista de Suporte de TI na Central do Micro<br>
-💡 Em transição para a área de Desenvolvimento de Software<br>
-🌱 Atualmente aprendendo Java, Spring Boot, JavaFX, JavaScript e Node.js<br>
-🛠️ Experiência com suporte técnico, redes e manutenção de sistemas
+  <strong>Estudante de ADS | Especialista em Suporte de TI | Futuro Desenvolvedor Java & Node.js</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Transi%C3%A7%C3%A3o-green?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/PedroNHD?style=flat-square" />
 </p>
 
 ---
 
-<h2 align="center">🚀 Tecnologias e ferramentas</h2>
+### 🚀 Sobre Mim
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas** na Faculdade Atenas e atuo como **Especialista de Suporte de TI**. Minha base sólida em infraestrutura, redes e manutenção de sistemas me proporciona uma visão sistêmica na hora de codificar.
+
+- 💡 **Objetivo:** Transição completa para o ecossistema de Desenvolvimento de Software.
+- 🌱 **Foco Atual:** Java com Spring Boot para APIs robustas e Node.js para aplicações escaláveis.
+- 🛠️ **Background:** Experiência prática em resolução de problemas complexos de hardware e redes.
+
+---
+
+### 💻 Stack Tecnológica
+
+| Categoria | Tecnologias |
+| --- | --- |
+| **Linguagens** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![JavaFX](https://img.shields.io/badge/-JavaFX-3776AB?logo=apachespark&logoColor=white) |
+| **Banco de Dados**| ![MySQL](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroNHD&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNHD&layout=compact&theme=dark" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroNHD&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 📫 Vamos nos conectar?
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroNHD&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNHD&layout=compact&theme=dark" height="160"/>
-</p>
-
----
-
-<h2 align="center">📫 Contato</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-domingues-horta-neto/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedro-domingues-horta-neto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/PedroNHD">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:SEU-EMAIL@AQUI.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">⭐ Obrigado por visitar meu perfil!</p>
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
