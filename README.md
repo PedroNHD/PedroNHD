@@ -34,11 +34,11 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** na Faculdade Atenas 
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroNHD&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNHD&layout=compact&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroNHD&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNHD&layout=compact&theme=dark" height="180" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
