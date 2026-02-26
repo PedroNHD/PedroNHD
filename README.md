@@ -48,7 +48,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** e atuando como **
   <a href="https://www.linkedin.com/in/pedro-domingues-horta-neto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@dominio.com">
+  <a href="mailto:pedrodhn2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
