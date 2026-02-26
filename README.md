@@ -33,14 +33,30 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** e atuando como **
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Ferramentas & Qualidade de Código
+Para garantir um código limpo e padronizado, além de suporte técnico certificado, utilizo:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroNHD&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNHD&layout=compact&theme=dark" height="180" alt="Linguagens mais usadas" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Google_IT_Support-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google IT Support" />
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroNHD&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroNHD&layout=compact&theme=dark" height="180" />
+</p>
+
+---
+
 
 ### 📫 Vamos trocar uma ideia?
 
