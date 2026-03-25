@@ -1,74 +1,106 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Olá,%20sou%20o%20Pedro%20Domingues&fontSize=40" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=150&section=header&text=👋%20Olá,%20sou%20o%20Pedro&fontSize=40&animation=fadeIn" />
+</div>
 
 <p align="center">
-  <strong>Análise e Desenvolvimento de Sistemas | Especialista em Suporte de TI | Backend Developer</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Focado%20em%20Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <a href="#-português">Português</a> │ <a href="#-english">English</a>
 </p>
 
 ---
+
+<h2 id="-português">🇧🇷 Português</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Análise_e_Desenvolvimento_de_Sistemas-339933?style=for-the-badge" alt="ADS">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</div>
 
 ### 🚀 Sobre Mim
 
 Atualmente cursando **Análise e Desenvolvimento de Sistemas** e atuando como **Especialista de Suporte de TI**. Minha trajetória no suporte me deu uma base sólida em infraestrutura, redes (MikroTik/UniFi) e resolução de problemas críticos, o que hoje reflete na qualidade e resiliência do meu código.
 
 - 🎯 **Foco Principal:** Desenvolvimento Backend com **Node.js**, explorando ecossistemas escaláveis e boas práticas de arquitetura.
-- 🛠️ **Background:** Especialista em suporte e manutenção de sistemas, garantindo que a aplicação rode bem desde o hardware até o deploy.
-- 🌱 **Em constante aprendizado:** Expandindo conhecimentos em **Java (Spring Boot)** e aprimorando conceitos de **Clean Code** e **SOLID**.
+- 🛠️ **Background:** Especialista em suporte e manutenção de sistemas, garantindo que a aplicação rode bem desde o hardware até o deploy em nuvem na **Oracle Cloud Infrastructure (OCI)**.
+- 🌱 **Em constante aprendizado:** Expandindo conhecimentos em **Java**, **Fastify**, **TypeORM** e aprimorando conceitos de **Clean Code** e **SOLID**.
 
----
-
-### 💻 Stack Tecnológica
+### 🛠️ Stack Tecnológica
 
 | Categoria | Tecnologias |
 | --- | --- |
-| **Principal (Node.js)** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
-| **Bancos & ORM** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| **Infra & Suporte** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![MikroTik](https://img.shields.io/badge/-MikroTik-EE1F25?style=flat) |
-| **Secundário/Estudo** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) |
-
----
-
-### 🛠️ Ferramentas & Qualidade de Código
-Para garantir um código limpo e padronizado, além de suporte técnico certificado, utilizo:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Google_IT_Support-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google IT Support" />
-</p>
-
----
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| **Bancos & ORM** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white) |
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MikroTik](https://img.shields.io/badge/MikroTik-EE1F25?style=for-the-badge) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroNHD&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroNHD&layout=compact&theme=dark" height="180" />
-</p>
-
----
-
+</div>
 
 ### 📫 Vamos trocar uma ideia?
 
-<p align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/pedro-domingues-horta-neto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pedrodhn2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</div>
 
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</p>
+---
+
+<h2 id="-english">🇺🇸 English</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Systems_Analysis_and_Development-339933?style=for-the-badge" alt="ADS">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</div>
+
+### 🚀 About Me
+
+Currently studying **Systems Analysis and Development** and working as an **IT Support Specialist**. My background in support has given me a solid foundation in infrastructure, networking (MikroTik/UniFi), and critical problem-solving, which today reflects on the quality and resilience of my code.
+
+- 🎯 **Main Focus:** Backend Development with **Node.js**, exploring scalable ecosystems and good architectural practices.
+- 🛠️ **Background:** Specialist in systems support and maintenance, ensuring the application runs smoothly from hardware to cloud deployment in **Oracle Cloud Infrastructure (OCI)**.
+- 🌱 **Constantly learning:** Expanding knowledge in **Java**, **Fastify**, **TypeORM** and improving **Clean Code** and **SOLID** concepts.
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+| --- | --- |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| **Databases & ORM** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white) |
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MikroTik](https://img.shields.io/badge/MikroTik-EE1F25?style=for-the-badge) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroNHD&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroNHD&layout=compact&theme=dark" height="180" />
+</div>
+
+### 📫 Let's connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-domingues-horta-neto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pedrodhn2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p>Developed with ☕ by <a href="https://www.linkedin.com/in/pedro-domingues-horta-neto/">Pedro Domingues</a></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=100&section=footer" />
+</div>
