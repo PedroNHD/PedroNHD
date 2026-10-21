@@ -58,7 +58,7 @@ Desenvolvo utilizando uma esteira customizada de **Orquestração Multi-Agente (
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=PedroNHD&theme=dark&hide_border=true&background=0D1117&ring=339933&fire=339933&currStreakLabel=339933" height="155" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroNHD&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=339933" height="155" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroNHD&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=339933" height="155" alt="Top Languages" />
 </div>
 
 ---
