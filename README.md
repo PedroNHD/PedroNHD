@@ -39,7 +39,10 @@ Desenvolvo utilizando uma esteira customizada de **Orquestração Multi-Agente (
 
 | Projeto | Solução & Destaques Técnicos | Tecnologias |
 | :--- | :--- | :--- |
-| 📍 [**Zé Delivery Backend Challenge**](https://github.com/PedroNHD/ZeDelivery-Backend-API-Challenge) | API de geoprocessamento com consultas espaciais complexas para localização de PDVs em áreas de cobertura (`MultiPolygon`) e cálculo de proximidade em alta performance. | `Node.js` `TypeScript` `Fastify` `Oracle DB Spatial` `TypeORM` `Docker` `Jest` |
+| 💸 [**PicPay Backend Challenge**](https://github.com/PedroNHD/picpay-backend-challenge) | API de transferências financeiras ACID com lock pessimista ordenado (`FOR UPDATE`), `Idempotency-Key`, autorizador externo e notificações assíncronas resilientes com backoff exponencial. | `NestJS` `TypeScript` `PostgreSQL` `Prisma` `Redis` `BullMQ` `Docker` `Jest` |
+| 🛡️ [**Woovi Leaky Bucket Challenge**](https://github.com/PedroNHD/woovi-leaky-bucket-challenge) | Rate Limiter anti-enumeração (estilo DICT/Pix) com scripts Lua atômicos no Redis, reembolso de token em sucesso, isolamento por tenant e headers `X-RateLimit-*` / `Retry-After`. | `Fastify` `TypeScript` `Redis Lua` `Zod` `Docker` `Vitest` |
+| 💱 [**AfterShip Exchange Rate Challenge**](https://github.com/PedroNHD/AfterShip-Challenge) | API de cotações e conversão de moedas com processamento assíncrono em filas, cache distribuído e persistência relacional. | `Fastify` `TypeScript` `PostgreSQL` `Redis` `BullMQ` `Docker` |
+| 📍 [**Zé Delivery Backend Challenge**](https://github.com/PedroNHD/ZeDelivery-Challenge) | API de geoprocessamento com consultas espaciais complexas para localização de PDVs em áreas de cobertura (`MultiPolygon`) e cálculo de proximidade em alta performance. | `Node.js` `TypeScript` `Fastify` `Oracle DB Spatial` `TypeORM` `Docker` `Jest` |
 
 ---
 
@@ -48,7 +51,7 @@ Desenvolvo utilizando uma esteira customizada de **Orquestração Multi-Agente (
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Backend & Linguagens** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
-| **Bancos, BaaS & ORM** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white) |
+| **Bancos, BaaS & ORM** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white) |
 | **Infra, Cloud & Redes** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MikroTik](https://img.shields.io/badge/MikroTik-EE1F25?style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Qualidade, DevSecOps & AI** | ![Semgrep](https://img.shields.io/badge/Semgrep_SAST-17B897?style=for-the-badge) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) |
 
@@ -78,12 +81,15 @@ Desenvolvo utilizando uma esteira customizada de **Orquestração Multi-Agente (
 
   ### 🌟 Featured Projects
 
-  - 📍 [**Zé Delivery Backend Challenge**](https://github.com/PedroNHD/ZeDelivery-Backend-API-Challenge): High-performance spatial query API solving coverage area lookups (`MultiPolygon`) and nearest point-of-sale discovery. (`Node.js`, `TypeScript`, `Fastify`, `Oracle Spatial`, `TypeORM`, `Docker`, `Jest`)
+  - 💸 [**PicPay Backend Challenge**](https://github.com/PedroNHD/picpay-backend-challenge): ACID financial transfer API with ordered pessimistic locking (`FOR UPDATE`), `Idempotency-Key`, external authorization, and resilient async notifications. (`NestJS`, `TypeScript`, `PostgreSQL`, `Prisma`, `Redis`, `BullMQ`, `Docker`, `Jest`)
+  - 🛡️ [**Woovi Leaky Bucket Challenge**](https://github.com/PedroNHD/woovi-leaky-bucket-challenge): Pix/DICT-style anti-enumeration rate limiter built with atomic Redis Lua scripts, success token refunds, and per-tenant isolation. (`Fastify`, `TypeScript`, `Redis Lua`, `Zod`, `Docker`, `Vitest`)
+  - 💱 [**AfterShip Exchange Rate Challenge**](https://github.com/PedroNHD/AfterShip-Challenge): Exchange rate API featuring async job processing, distributed caching, and relational persistence. (`Fastify`, `TypeScript`, `PostgreSQL`, `Redis`, `BullMQ`, `Docker`)
+  - 📍 [**Zé Delivery Backend Challenge**](https://github.com/PedroNHD/ZeDelivery-Challenge): High-performance spatial query API solving coverage area lookups (`MultiPolygon`) and nearest point-of-sale discovery. (`Node.js`, `TypeScript`, `Fastify`, `Oracle Spatial`, `TypeORM`, `Docker`, `Jest`)
 
   ### 🛠️ Tech Stack
 
   - **Backend & Languages:** Node.js, TypeScript, NestJS, Fastify, Python, Java
-  - **Databases, BaaS & ORM:** PostgreSQL, Supabase (RLS), Oracle DB, Prisma, Drizzle ORM, TypeORM
+  - **Databases, BaaS & ORM:** PostgreSQL, Redis, Supabase (RLS), Oracle DB, Prisma, Drizzle ORM, TypeORM
   - **Infra, Cloud & Networking:** Docker, Linux, Oracle Cloud (OCI), MikroTik, Bash
   - **Quality, DevSecOps & AI:** Semgrep SAST, Jest, Vitest, Playwright, Git, MCP, ESLint
 </details>
